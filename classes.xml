@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<classes>
+	<class>
+	    <name>Web Programming 2</name>
+	    <professor>Enke</professor>
+	    <semester>Spring</semester>
+	    <year>2019</year>
+	    <description>Learning to build web applications.</description>
+	</class>
+	<class>
+	    <name>Human Computer Interaction</name>
+	    <professor>Enke</professor>
+	    <semester>Spring</semester>
+	    <year>2019</year>
+	    <description>Learning to make your website look better.</description>
+	</class>
+	<class>
+	    <name>Project Management</name>
+	    <professor>Caton</professor>
+	    <semester>Spring</semester>
+	    <year>2019</year>
+	    <description>Learn the process of managing projects in the workplace.</description>
+	</class>
+	<class>
+	    <name>Fundamentals of Management</name>
+	    <professor>Bailey</professor>
+	    <semester>Spring</semester>
+	    <year>2019</year>
+	    <description>Learning how to program in java.</description>
+	</class>
+	<class>
+	    <name>Object Oriented Programming</name>
+	    <professor>Keeney</professor>
+	    <semester>Spring</semester>
+	    <year>2019</year>
+	    <description>Learn about security and its legal policies.</description>
+	</class>
+	<class>
+	    <name></name>
+	    <professor></professor>
+	    <semester></semester>
+	    <year></year>
+	    <description></description>
+	</class>
+</classes>

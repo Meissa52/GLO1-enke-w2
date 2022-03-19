@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<major>
+	<name>Web Development</name>
+	<chair>Evan Enke</chair>
+	<career>
+		<option>Back End Developer</option>
+		<option>Front End Developer</option>
+		<option>Web Design</option>
+	</career>
+	<technologies>
+		<technology>
+			<name>HTML</name>
+		</technology>
+		<technology>
+			<name>CSS</name>
+		</technology>
+		<technology>
+			<name>XML</name>
+		</technology>
+		<technology>
+			<name>Javascript</name>
+		</technology>
+	</technologies>
+	<career>Web Developer</career>
+</major>
